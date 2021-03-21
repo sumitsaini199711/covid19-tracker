@@ -1,7 +1,8 @@
 {
     "editor.formatOnSave": true,
     "emmet.includeLanguages": {
-        "csharp": "html"
+        "csharp": "html",
+        "javascript": "javascriptreact"
     },
     "emmet.triggerExpansionOnTab": true
 }
